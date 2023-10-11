@@ -1,6 +1,6 @@
 import dynamic from "next/dynamic";
 import "./globals.css";
-import Navbar from "@/components/Navbar";
+import NavBar from "@/components/NavBar";
 
 export const metadata = {
 	title: "VisionDx | Explore",
@@ -12,7 +12,7 @@ export const metadata = {
 	return (
 	  <html lang="en">
 		<body>
-		  <Navbar />
+		  <NavBar />
 		  {children}
 		</body>
 	  </html>
