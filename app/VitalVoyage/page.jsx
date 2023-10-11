@@ -12,9 +12,9 @@ import { faChevronLeft } from "@fortawesome/free-solid-svg-icons";
 
 import LineAnime from "@/components/LineAnime";
 //img
-import Cure from "@/public/img/cure.png";
-import Cure1 from "@/public/img/cure1.png";
-import Cure2 from "@/public/img/cure2.png";
+import Cure from "@/public/img/Cure.png";
+import Cure1 from "@/public/img/Cure1.png";
+import Cure2 from "@/public/img/Cure2.png";
 export default function Page() {
 	useEffect(() => {
 		window.scrollTo(0, 0);

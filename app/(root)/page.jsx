@@ -10,9 +10,9 @@ import Button from "@/components/Button";
 import LineAnime from "@/components/LineAnime";
 //img
 import Heart from "@/public/img/heart.png";
-import Problem from "@/public/img/cure1.png"
+import Problem from "@/public/img/Cure1.png"
 import Check from "@/public/img/Check.png";
-import Cure from "@/public/img/cure.png";
+import Cure from "@/public/img/Cure.png";
 import Contact from "@/public/img/Contact.png"
 // icons
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
