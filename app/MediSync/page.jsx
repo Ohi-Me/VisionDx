@@ -278,8 +278,9 @@ export default function Page() {
 							</span>{" "}
 							You can focus on diabetic symptoms such as thirst, exhaustion, or weight fluctuations in the{" "}
 							<span className="text-black font-medium">
-							"Diabetic Dilemmas" section, and our powerful algorithms will offer insights and potential risk factors,
-							</span>{" "}
+							&quot;Diabetic Dilemmas&quot; section, and our powerful algorithms will offer insights and potential risk factors,
+							</span>
+							{" "}
 							emphasising the need of early detection for effective care.{" "}
 							<span className="text-black font-medium">
 							Similarly, &quot;Heart Health Insights&quot; allows you to track symptoms such as chest pain, palpitations, or shortness of breath, with the system
