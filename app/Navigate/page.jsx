@@ -282,15 +282,14 @@ export default function Page() {
 						</h2>
 						<p className="pl-3 text-gray-500  relative text-justify">
 							<span className="before:border-s-2 before:absolute before:left-0 before:top-0 before:h-full before:border-gray-400 before:block before:w-2 before:content-'' "></span>
-							Cardiovascular diseases (CVDs) stand as the world's leading cause of mortality, claiming approximately 17.9 million lives annually. This group encompasses various heart 
-							and blood vessel disorders, such as coronary heart disease and cerebrovascular disease, with over 80% of CVD-related deaths attributed to heart attacks and strokes, striking 
-							individuals under 70 prematurely. Unhealthy dietary choices, physical inactivity, tobacco use, and excessive alcohol consumption represent major behavioral risk factors for 
-							heart disease and stroke, often manifesting as elevated blood pressure, glucose levels, lipids, and obesity. These intermediate risk factors can be identified in primary 
-							care settings, signaling heightened risks of complications like heart failure. Effective measures to mitigate CVD risks include tobacco cessation, reduced salt intake, 
-							increased consumption of fruits and vegetables, regular physical activity, and responsible alcohol use. Creating supportive environments for healthy choices through 
-							public health policies is crucial for sustaining these behaviors. Additionally, early identification of high-risk individuals and ensuring their access to necessary 
-							treatments in primary healthcare facilities can avert premature CVD-related deaths, emphasizing the importance of providing essential noncommunicable disease medications 
-							and healthcare resources.
+							Cardiovascular diseases (CVDs) stand as the world&apos;s leading cause of mortality, claiming approximately 17.9 million lives annually. This group encompasses various 
+							heart and blood vessel disorders, such as coronary heart disease and cerebrovascular disease, with over 80% of CVD-related deaths attributed to heart attacks and strokes, 
+							striking individuals under 70 prematurely. Unhealthy dietary choices, physical inactivity, tobacco use, and excessive alcohol consumption represent major behavioral risk 
+							factors for heart disease and stroke, often manifesting as elevated blood pressure, glucose levels, lipids, and obesity. These intermediate risk factors can be identified 
+							in primary care settings, signaling heightened risks of complications like heart failure. Effective measures to mitigate CVD risks include tobacco cessation, reduced salt 
+							intake, increased consumption of fruits and vegetables, regular physical activity, and responsible alcohol use. Creating supportive environments for healthy choices through 
+							public health policies is crucial for sustaining these behaviors. Additionally, early identification of high-risk individuals and ensuring their access to necessary treatments 
+							in primary healthcare facilities can avert premature CVD-related deaths, emphasizing the importance of providing essential noncommunicable disease medications and healthcare resources.
 						</p>
 					</motion.div>
 					<motion.div
@@ -316,8 +315,8 @@ export default function Page() {
 							This often leads to hyperglycemia, characterized by elevated blood sugar levels, causing extensive damage to various body systems, notably the nerves and blood vessels. In 2014, 
 							8.5% of adults aged 18 and above had diabetes, and by 2019, it directly accounted for 1.5 million deaths, with 48% occurring before the age of 70. An additional 460,000 kidney 
 							disease-related deaths were linked to diabetes, contributing to around 20% of cardiovascular deaths. Over the years, there has been a 3% increase in age-standardized mortality 
-							rates from diabetes, with a striking 13% rise in lower-middle-income countries. However, amidst these concerning statistics, there's a glimmer of hope: the probability of premature 
-							death from any of the four primary noncommunicable diseases—including diabetes—between the ages of 30 and 70 decreased by 22% globally between 2000 and 2019.
+							rates from diabetes, with a striking 13% rise in lower-middle-income countries. However, amidst these concerning statistics, there&apos;s a glimmer of hope: the probability of 
+							premature death from any of the four primary noncommunicable diseases—including diabetes—between the ages of 30 and 70 decreased by 22% globally between 2000 and 2019.
 						</p>
 					</motion.div>
 					<motion.div
@@ -394,12 +393,7 @@ export default function Page() {
 						</h3>
 						<p className="pl-3 text-gray-500  relative text-justify">
 							<span className="before:border-s-2 before:absolute before:left-0 before:top-0 before:h-full before:border-gray-400 before:block before:w-2 before:content-'' "></span>
-							Hypertension, often referred to as high blood pressure, is often a silent condition, with most individuals experiencing no noticeable symptoms. However, extremely 
-							elevated blood pressure levels can lead to symptoms such as severe headaches, chest pain, dizziness, breathing difficulties, nausea, vomiting, blurred vision, anxiety, 
-							confusion, buzzing in the ears, nosebleeds, and abnormal heart rhythms. Regular monitoring of blood pressure is essential to diagnose hypertension, as it remains the 
-							most reliable method to detect this condition. Left untreated, hypertension can result in severe health complications, including kidney disease, heart disease, and strokes. 
-							While individuals can measure their own blood pressure using automated devices, a healthcare professional's evaluation is crucial for a comprehensive risk assessment and the 
-							identification of associated conditions, emphasizing the importance of seeking immediate care if experiencing the symptoms mentioned above alongside high blood pressure.
+							Hypertension, often referred to as high blood pressure, is often a silent condition, with most individuals experiencing no noticeable symptoms. However, extremely elevated blood pressure levels can lead to symptoms such as severe headaches, chest pain, dizziness, breathing difficulties, nausea, vomiting, blurred vision, anxiety, confusion, buzzing in the ears, nosebleeds, and abnormal heart rhythms. Regular monitoring of blood pressure is essential to diagnose hypertension, as it remains the most reliable method to detect this condition. Left untreated, hypertension can result in severe health complications, including kidney disease, heart disease, and strokes. While individuals can measure their own blood pressure using automated devices, a healthcare professional&apos;s evaluation is crucial for a comprehensive risk assessment and the identification of associated conditions, emphasizing the importance of seeking immediate care if experiencing the symptoms mentioned above alongside high blood pressure.
 						</p>
 					</motion.div>
 					<motion.div
@@ -421,12 +415,7 @@ export default function Page() {
 						</h3>
 						<p className="pl-3 text-gray-500  relative text-justify">
 							<span className="before:border-s-2 before:absolute before:left-0 before:top-0 before:h-full before:border-gray-400 before:block before:w-2 before:content-'' "></span>
-							Diabetes symptoms can manifest suddenly or, in the case of type 2 diabetes, develop gradually over several years. Common symptoms include excessive thirst, frequent 
-							urination, blurred vision, fatigue, and unintended weight loss. Prolonged diabetes can result in severe complications, as it damages blood vessels in the heart, eyes, 
-							kidneys, and nerves. Individuals with diabetes face an increased risk of health issues, including heart attacks, strokes, and kidney failure. Additionally, diabetes 
-							can lead to permanent vision impairment due to damage to the eye's blood vessels. Nerve damage and poor blood circulation caused by diabetes often result in foot 
-							problems, such as ulcers, which can escalate to the point of requiring amputation. Prompt diagnosis and effective diabetes management are essential to mitigate 
-							these risks and ensure a healthier future.
+							Diabetes symptoms can manifest suddenly or, in the case of type 2 diabetes, develop gradually over several years. Common symptoms include excessive thirst, frequent urination, blurred vision, fatigue, and unintended weight loss. Prolonged diabetes can result in severe complications, as it damages blood vessels in the heart, eyes, kidneys, and nerves. Individuals with diabetes face an increased risk of health issues, including heart attacks, strokes, and kidney failure. Additionally, diabetes can lead to permanent vision impairment due to damage to the eye&apos;s blood vessels. Nerve damage and poor blood circulation caused by diabetes often result in foot problems, such as ulcers, which can escalate to the point of requiring amputation. Prompt diagnosis and effective diabetes management are essential to mitigate these risks and ensure a healthier future.
 						</p>
 					</motion.div>
 					<motion.div
@@ -448,14 +437,7 @@ export default function Page() {
 						</h3>
 						<p className="pl-3 text-gray-500  relative text-justify">
 							<span className="before:border-s-2 before:absolute before:left-0 before:top-0 before:h-full before:border-gray-400 before:block before:w-2 before:content-'' "></span>
-							Lifestyle changes play a pivotal role in managing high blood pressure, benefiting anyone with hypertension. While some may still require medication, these modifications 
-							are crucial for prevention and lowering elevated blood pressure. It's important to increase vegetable and fruit consumption, reduce sedentary behavior, engage in regular 
-							physical activity such as walking, running, swimming, or strength-building exercises, aim for at least 150 minutes of moderate-intensity aerobic activity weekly, shed 
-							excess weight if overweight or obese, adhere to prescribed medications, and maintain regular healthcare appointments. Conversely, it's advised to limit salt intake to 
-							under 2 grams per day, avoid foods high in saturated or trans fats, abstain from smoking or tobacco use, and consume alcohol in moderation (1 drink daily for women, 2 for men). 
-							These measures not only reduce hypertension but also mitigate the risk of heart attacks, strokes, kidney damage, and other associated health complications. Additionally, stress 
-							management, regular blood pressure monitoring, prompt hypertension treatment, and the management of other medical conditions further contribute to lowering the risks 
-							associated with high blood pressure.
+							Lifestyle changes play a pivotal role in managing high blood pressure, benefiting anyone with hypertension. While some may still require medication, these modifications are crucial for prevention and lowering elevated blood pressure. It&apos;s important to increase vegetable and fruit consumption, reduce sedentary behavior, engage in regular physical activity such as walking, running, swimming, or strength-building exercises, aim for at least 150 minutes of moderate-intensity aerobic activity weekly, shed excess weight if overweight or obese, adhere to prescribed medications, and maintain regular healthcare appointments. Conversely, it&apos;s advised to limit salt intake to under 2 grams per day, avoid foods high in saturated or trans fats, abstain from smoking or tobacco use, and consume alcohol in moderation (1 drink daily for women, 2 for men). These measures not only reduce hypertension but also mitigate the risk of heart attacks, strokes, kidney damage, and other associated health complications. Additionally, stress management, regular blood pressure monitoring, prompt hypertension treatment, and the management of other medical conditions further contribute to lowering the risks associated with high blood pressure.
 						</p>
 					</motion.div>
 					<motion.div

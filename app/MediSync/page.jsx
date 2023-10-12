@@ -152,7 +152,7 @@ export default function Page() {
 								{" "}
 								Enter your required details to take control of your health.
 							</span>
-							Whether you're worried about heart disease or diabetes.
+							    Whether you&apos;re worried about heart disease or diabetes.
 						</p>
 						<motion.div
 							initial={{ opacity: 0 }}
@@ -263,10 +263,10 @@ export default function Page() {
 							type: "spring",
 						}}>
 						<h2 className="text-2xl font-bold tracking-wider mb-3">
-						    The "Symptom Analyzer" on MediSync acts as your personal health detective,
+							The &quot;Symptom Analyzer&quot; on MediSync acts as your personal health detective,
 						</h2>
 						<p className="text-gray-600 text-justify title text-lg">
-						    allowing you to take charge of your health by inputting symptoms
+							allowing you to take charge of your health by inputting symptoms
 							<span className="text-black font-medium">
 								{" "}
 								connected to diabetes or heart problems.
@@ -282,7 +282,7 @@ export default function Page() {
 							</span>{" "}
 							emphasising the need of early detection for effective care.{" "}
 							<span className="text-black font-medium">
-							Similarly, "Heart Health Insights" allows you to track symptoms such as chest pain, palpitations, or shortness of breath, with the system
+							Similarly, &quot;Heart Health Insights&quot; allows you to track symptoms such as chest pain, palpitations, or shortness of breath, with the system
 							</span>{" "}
 							advising you on potential heart problems and emphasising
 							<span className="text-black font-medium">
@@ -381,7 +381,7 @@ export default function Page() {
 						</p>
 						<p className="pl-3 text-gray-500 relative text-justify font-bold">
 							<span className="before:border-s-2 before:absolute before:left-0 before:top-0 before:h-full before:border-gray-400 before:block before:w-2 before:content-'' "></span>
-							Sex: It's a binary variable (1 for male, 0 for female).
+							Sex: It&apos;s a binary variable (1 for male, 0 for female).
 						</p>
 						<p className="pl-3 text-gray-500 relative text-justify font-bold">
 							<span className="before:border-s-2 before:absolute before:left-0 before:top-0 before:h-full before:border-gray-400 before:block before:w-2 before:content-'' "></span>
@@ -409,7 +409,7 @@ export default function Page() {
 						</p>
 						<p className="pl-3 text-gray-500 relative text-justify font-bold">
 							<span className="before:border-s-2 before:absolute before:left-0 before:top-0 before:h-full before:border-gray-400 before:block before:w-2 before:content-'' "></span>
-							Exercise-Induced Angina (exang): No normal range, as it's a binary variable (1 for yes, 0 for no).
+							Exercise-Induced Angina (exang): No normal range, as it&apos;s a binary variable (1 for yes, 0 for no).
 						</p>
 						<p className="pl-3 text-gray-500 relative text-justify font-bold">
 							<span className="before:border-s-2 before:absolute before:left-0 before:top-0 before:h-full before:border-gray-400 before:block before:w-2 before:content-'' "></span>
@@ -429,7 +429,7 @@ export default function Page() {
 						</p>
 						<p className="pl-3 text-gray-500 relative text-justify font-bold">
 							<span className="before:border-s-2 before:absolute before:left-0 before:top-0 before:h-full before:border-gray-400 before:block before:w-2 before:content-'' "></span>
-							Target (target): No specific normal range, as it's a binary variable (1 for presence of heart disease, 0 for no heart disease).
+							Target (target): No specific normal range, as it&apos;s a binary variable (1 for presence of heart disease, 0 for no heart disease).
 						</p>
 					</motion.div>
 					<motion.div
@@ -729,7 +729,7 @@ export default function Page() {
 							</p>
 							<p className="pl-3 text-gray-500 relative text-justify font-bold">
 								<span className="before:border-s-2 before:absolute before:left-0 before:top-0 before:h-full before:border-gray-400 before:block before:w-2 before:content-'' "></span>
-								Skin Thickness: There isn't a specific normal range for skin thickness as it's not a common medical measurement.
+								Skin Thickness: There isn&apos;t a specific normal range for skin thickness as it&apos;s not a common medical measurement.
 							</p>
 							<p className="pl-3 text-gray-500 relative text-justify font-bold">
 								<span className="before:border-s-2 before:absolute before:left-0 before:top-0 before:h-full before:border-gray-400 before:block before:w-2 before:content-'' "></span>
@@ -741,8 +741,9 @@ export default function Page() {
 							</p>
 							<p className="pl-3 text-gray-500 relative text-justify font-bold">
 								<span className="before:border-s-2 before:absolute before:left-0 before:top-0 before:h-full before:border-gray-400 before:block before:w-2 before:content-'' "></span>
-								Diabetes Pedigree Function: There isn't a specific normal range for this value, as it's a computed function rather than a direct measurement.
+								Diabetes Pedigree Function: There isn&apos;t a specific normal range for this value, as it&apos;s a computed function rather than a direct measurement.
 							</p>
+
 							<p className="pl-3 text-gray-500 relative text-justify font-bold">
 								<span className="before:border-s-2 before:absolute before:left-0 before:top-0 before:h-full before:border-gray-400 before:block before:w-2 before:content-'' "></span>
 								Age: How many years young are you?

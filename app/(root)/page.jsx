@@ -171,7 +171,7 @@ const MyPage = () => {
 											delay: 0.2,
 											type: "spring",
 										}}>
-										Discover the essence of VisionDX as we provide you with an in-depth understanding of our application's purpose, features, and benefits. Get acquainted with the app's core offerings and explore how it can empower you on your health journey.
+										Discover the essence of VisionDX as we provide you with an in-depth understanding of our application&apos;s purpose, features, and benefits.
 									</motion.p>
 									<motion.div
 										className="buttons flex flex-row justify-center items-center space-x-4 mt-10"
@@ -258,7 +258,7 @@ const MyPage = () => {
 											delay: 0.2,
 											type: "spring",
 										}}>
-										Through MediSync, start your journey to better health. Here, we provide you with a tailored analysis of your health risk. We'll provide you
+										Through MediSync, start your journey to better health. Here, we provide you with a tailored analysis of your health risk. We&apos;ll provide you
 										{" "}
 										<span className="bg-transparent md:bg-gray-100 bg-opacity-50 xl:bg-transparent">
 										{" "}
@@ -438,12 +438,12 @@ const MyPage = () => {
 											delay: 0.2,
 											type: "spring",
 										}}>
-										We're here to assist you.
+										We&apos;re here to assist you.
 										{" "}
 										<span className="bg-transparent md:bg-gray-100 bg-opacity-50 xl:bg-transparent">
 										{" "}
-										If you have any questions, feedback, or need assistance, don't hesitate to reach out. 
-										</span>
+										If you have any questions, feedback, or need assistance, don&apos;t hesitate to reach out.
+            							</span>
 									</motion.p>
 									<div className="flex justify-center items-center space-x-4">
 										<motion.a
@@ -460,7 +460,6 @@ const MyPage = () => {
 												className="text-3xl"
 											/>
 										</motion.a>
-
 										<motion.a
 											href="https://github.com/Ohi-Me"
 											target="_blank"

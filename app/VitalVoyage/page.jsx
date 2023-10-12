@@ -327,14 +327,7 @@ export default function Page() {
 						</h3>
 						<p className="pl-3 text-gray-500  relative text-justify">
 							<span className="before:border-s-2 before:absolute before:left-0 before:top-0 before:h-full before:border-gray-400 before:block before:w-2 before:content-'' "></span>
-							The World Health Organization (WHO) plays a pivotal role in addressing hypertension as a significant public health concern globally. In 2021, WHO issued updated guidelines 
-							for pharmacological treatment of hypertension in adults, offering evidence-based recommendations for treatment initiation, follow-up intervals, target blood pressure goals, 
-							and defining the healthcare system roles in initiating treatment. To bolster governments' efforts in preventing and managing cardiovascular diseases, WHO, in collaboration 
-							with the United States Centers for Disease Control and Prevention (U.S. CDC), launched the Global Hearts Initiative in 2016, featuring the HEARTS technical package with 
-							modules encompassing lifestyle counseling, treatment protocols, access to essential medicines and technology, risk-based management, team-based care, and monitoring systems. 
-							A pivotal partnership with Resolve to Save Lives, along with contributions from various organizations, has enabled the implementation of the Global Hearts Initiative in 31 
-							low- and middle-income countries since 2017. These initiatives have successfully placed 7.5 million individuals on protocol-based hypertension treatment through person-centered 
-							models of care, demonstrating the feasibility and effectiveness of standardized hypertension control programs on a global scale.
+							The World Health Organization (WHO) plays a pivotal role in addressing hypertension as a significant public health concern globally. In 2021, WHO issued updated guidelines for pharmacological treatment of hypertension in adults, offering evidence-based recommendations for treatment initiation, follow-up intervals, target blood pressure goals, and defining the healthcare system roles in initiating treatment. To bolster governments&apos; efforts in preventing and managing cardiovascular diseases, WHO, in collaboration with the United States Centers for Disease Control and Prevention (U.S. CDC), launched the Global Hearts Initiative in 2016, featuring the HEARTS technical package with modules encompassing lifestyle counseling, treatment protocols, access to essential medicines and technology, risk-based management, team-based care, and monitoring systems. A pivotal partnership with Resolve to Save Lives, along with contributions from various organizations, has enabled the implementation of the Global Hearts Initiative in 31 low- and middle-income countries since 2017. These initiatives have successfully placed 7.5 million individuals on protocol-based hypertension treatment through person-centered models of care, demonstrating the feasibility and effectiveness of standardized hypertension control programs on a global scale.
 						</p>
 					</motion.div>
 					<motion.div
